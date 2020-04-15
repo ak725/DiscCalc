@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DiscCalc</string>
+    <string name="amount">Amount</string>
+    <string name="calculate">Calculate</string>
+    <string name="discount">Discount</string>
+    <string name="actual_price">Actual Price</string>
+</resources>
